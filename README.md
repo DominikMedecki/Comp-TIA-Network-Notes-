@@ -88,5 +88,3 @@ These notes are based on my personal study journey and may not cover every exam 
 Pass the CompTIA Network+ certification and build a strong foundation in networking fundamentals.
 
 ---
-
-Happy studying! 💪
