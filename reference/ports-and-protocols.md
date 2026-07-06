@@ -1,0 +1,17 @@
+# Ports & Protocols
+
+HTTP → 80
+HTTPS → 443
+DNS → 53
+DHCP → 67/68
+FTP → 20/21
+SSH → 22
+Telnet → 23
+SMTP → 25 / 587
+SNMP → 161/162
+LDAP → 389
+LDAPS → 636
+RDP → 3389
+SMB → 445
+NTP → 123
+SIP → 5060/5061
