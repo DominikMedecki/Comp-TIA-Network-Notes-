@@ -1,7 +1,6 @@
 # OSI Model (CompTIA Network+)
 
 ## OSI Layers (Top → Bottom)
-
 7. Application → HTTP, HTTPS, DNS, SMTP (user-facing apps)
 6. Presentation → SSL/TLS, encryption, encoding, compression
 5. Session → session management, checkpoints, RPC, NetBIOS
