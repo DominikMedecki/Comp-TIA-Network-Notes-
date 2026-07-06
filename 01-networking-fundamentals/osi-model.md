@@ -1,13 +1,13 @@
 # OSI Model (CompTIA Network+)
 
 ## OSI Layers (Top → Bottom)
-7.Application → HTTP, HTTPS, DNS, SMTP (user-facing apps)
-6.Presentation → SSL/TLS, encryption, encoding, compression
-5.Session → session management, checkpoints, RPC, NetBIOS
-4.Transport → TCP/UDP, segmentation, ports
-3.Network → IP addressing, routing, routers
-2.Data Link → MAC addresses, Ethernet, switches
-1.Physical → cables, signals, bits
+7. Application → HTTP, HTTPS, DNS, SMTP (user-facing apps)
+6. Presentation → SSL/TLS, encryption, encoding, compression
+5. Session → session management, checkpoints, RPC, NetBIOS
+4. Transport → TCP/UDP, segmentation, ports
+3. Network → IP addressing, routing, routers
+2. Data Link → MAC addresses, Ethernet, switches
+1. Physical → cables, signals, bits
 
 ---
 
